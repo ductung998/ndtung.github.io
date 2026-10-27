@@ -1,0 +1,17 @@
+title: "Duc Tung Nguyen"
+description: "Pharmaceutical Information Technology · Research · Teaching"
+url: ""
+baseurl: ""
+lang: vi
+markdown: kramdown
+theme: null
+permalink: /:categories/:year/:month/:day/:title/
+header_pages:
+  - about.md
+  - research.md
+  - teaching.md
+  - projects.md
+  - notes.md
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
