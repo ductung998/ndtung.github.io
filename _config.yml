@@ -1,7 +1,7 @@
 title: "Duc Tung Nguyen"
 description: "Pharmaceutical Information Technology · Research · Teaching"
-url: ""
-baseurl: ""
+url: "https://ductung998.github.io"
+baseurl: "/ndtung.github.io"
 lang: vi
 markdown: kramdown
 theme: null
