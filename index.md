@@ -5,8 +5,8 @@ title: Home
 <section class="hero">
   <p class="eyebrow">Pharmaceutical Information Technology</p>
   <h1>Duc Tung <span>Nguyen</span></h1>
-  <p class="subtitle">Dược học · Dữ liệu · Công nghệ · Học thuật</p>
-  <p class="motto">“Better data. Better decisions. For a healthier tomorrow.”</p>
+  <p class="subtitle">Pharmacist · Programmer · Data scientist</p>
+  <p class="motto">“Better data. Better decisions.”</p>
   <hr class="rule">
   <p><a class="button primary" href="{{ '/research/' | relative_url }}">Explore my work</a>
   <a class="button" href="{{ '/notes/' | relative_url }}">Read my notes</a></p>
@@ -39,4 +39,4 @@ title: Home
     <div class="placeholder"><strong>Video / channel</strong><p>Thay nội dung này bằng video nhúng hoặc liên kết kênh YouTube.</p><a class="text-link" href="https://www.youtube.com/" target="_blank" rel="noopener">Visit YouTube ↗</a></div>
   </div>
 </section>
-<div class="quote">“Học hôm nay, ứng dụng ngày mai.”</div>
+<div class="quote">“If you gaze long into an abyss, the abyss also gazes into you. - Nietzsche -”</div>
